@@ -1,33 +1,10 @@
 .titulo {
-  color: #FFFFFF;
-  background-color: #520034;
-  border: 5px solid #520034;
-  border-radius: 25px;
+  color: #1B1BB3;
+}
+.Lexus232 {
+  font-style: italic;
+  font-weight: bold;
 }
 body {
-  background-image:
-}
-
-.seccion-buggs-bunny {
-  background-image: url(./img/fondo-buggsbunny.jpg);
-  padding: 400px 100px 400px 100px;
-  background-size: cover;
-}
-.seccion-buggs-bunny__titulo {
-  text-align: center;
-  color: #1240AB;
-  font-size: 50px;
-}
-.seccion-buggs-bunny__texto {
-  color: #1240AB;
-  font-size: 30px;
-  text-align: center;
-}
-.seccion-buggs-bunny__cool {
-  font-style: italic;
-  font-weight: bold;
-}
-.L {
-  font-style: italic;
-  font-weight: bold;
+  background-color: #FFDE00;
 }
